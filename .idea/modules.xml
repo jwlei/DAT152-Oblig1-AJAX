@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DAT152_AJAX_TaskManager.iml" filepath="$PROJECT_DIR$/DAT152_AJAX_TaskManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaskDemo/TaskDemo.iml" filepath="$PROJECT_DIR$/TaskDemo/TaskDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaskOrganizer/TaskOrganizer.iml" filepath="$PROJECT_DIR$/TaskOrganizer/TaskOrganizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaskServices/TaskServices.iml" filepath="$PROJECT_DIR$/TaskServices/TaskServices.iml" />
+    </modules>
+  </component>
+</project>

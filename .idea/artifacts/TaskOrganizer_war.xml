@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TaskOrganizer:war">
+    <output-path>$PROJECT_DIR$/TaskOrganizer/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>TaskOrganizer</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="TaskOrganizer-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="TaskOrganizer:war exploded" />
+    </root>
+  </artifact>
+</component>
