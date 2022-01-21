@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="DAT152_AJAX_TaskManager:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/DAT152_AJAX_TaskManager</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="DAT152_AJAX_TaskManager" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="DAT152_AJAX_TaskManager/web/Web" />
+    </root>
+  </artifact>
+</component>
